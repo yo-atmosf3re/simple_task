@@ -12,7 +12,14 @@ import HW6 from '../../../p2-homeworks/h6/HW6'
 // ? H3 complited
 // ? H4 complited
 // ? H5 complited
-// ? H6
+// ? H6 complited
+// ? H8
+// ? H9
+// ? H10
+// ? H11
+// ? H12
+// ? H13
+// ? h16
 
 
 function App() {
