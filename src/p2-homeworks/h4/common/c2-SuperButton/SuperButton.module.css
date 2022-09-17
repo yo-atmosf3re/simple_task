@@ -1,0 +1,11 @@
+.default {
+
+}
+
+.default:disabled {
+    background: blue;
+}
+
+.red {
+    background: red;
+}
