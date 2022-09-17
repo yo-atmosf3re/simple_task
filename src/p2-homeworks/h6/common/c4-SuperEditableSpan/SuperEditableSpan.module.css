@@ -1,0 +1,9 @@
+.blockSpan {
+   transition: 0.1s;
+}
+
+.blockSpan:hover {
+   transition: 0.1s;
+   border: 1px solid blue;
+   background: rgba(0, 0, 255, 0.151);
+}
