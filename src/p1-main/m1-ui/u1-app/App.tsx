@@ -6,6 +6,7 @@ import HW3 from '../../../p2-homeworks/h3/HW3'
 import HW4 from '../../../p2-homeworks/h4/HW4'
 import HW5 from '../../../p2-homeworks/h5-rrd-v6/HW5'
 import HW6 from '../../../p2-homeworks/h6/HW6'
+import HW7 from '../../../p2-homeworks/h7/HW7'
 
 // ? H1 complited
 // ? H2 complited
@@ -13,6 +14,7 @@ import HW6 from '../../../p2-homeworks/h6/HW6'
 // ? H4 complited
 // ? H5 complited
 // ? H6 complited
+// ? H7 complited
 // ? H8
 // ? H9
 // ? H10
@@ -31,7 +33,8 @@ function App() {
             {/* <HW3 /> */}
             {/* <HW4 /> */}
             {/* <HW5 /> */}
-            <HW6 />
+            {/* <HW6 /> */}
+            <HW7 />
         </div>
     )
 }
