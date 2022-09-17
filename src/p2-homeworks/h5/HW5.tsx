@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './Header'
-import Routes from './Routes'
+import RoutesComponent from './Routes'
 
 function HW5() {
     return (
@@ -8,9 +8,9 @@ function HW5() {
             {/*в gh-pages лучше работает HashRouter*/}
             {/*<HashRouter>*/}
 
-            <Header/>
+            <Header />
 
-            <Routes/>
+            <RoutesComponent />
 
             {/*</HashRouter>*/}
         </div>
